@@ -1,3 +1,4 @@
+Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
@@ -21,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/fundo.png");
+    background-image: url("img/Fundo.png");
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
